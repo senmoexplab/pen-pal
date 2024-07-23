@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gordon, Tola, Baerts, Krsikapa, Manson, Pan
+    given-names: Harrison, Joaquin, Pieter, Nicholas, Gerome, Matthew
+title: "Passive Movement Controller for Kinova Gen 3 6DoF Robot"
+version: 1.0
